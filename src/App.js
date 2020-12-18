@@ -1,5 +1,4 @@
 import React from "react";
-import AboutUs from "../src/pages/AboutUs";
 //Import pages
 import AboutSection from "./components/AboutSection";
 function App() {
